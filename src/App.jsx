@@ -130,7 +130,7 @@ export default function App() {
           <div className="logo-wrap">
             <span className="logo-emoji">💫</span>
           </div>
-          <h1>Rishte Ka Raaz</h1>
+          <h1>Relation</h1>
           <p className="tagline">Do naam — ek raaz</p>
           <div className="rel-chips">
             {["🤝 Dost","❤️ Pyaar","🧡 Bhai-Bahen","💍 Husband-Wife","⚡ Dushman","✨ Soulmates"].map(r => (
@@ -239,7 +239,7 @@ export default function App() {
         )}
 
         <footer>
-          <p>💫 Rishte Ka Raaz &nbsp;·&nbsp; Har rishta khaas hota hai</p>
+          <p>💫 Relation &nbsp;·&nbsp; Har rishta khaas hota hai</p>
         </footer>
       </div>
     </div>
